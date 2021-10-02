@@ -24,4 +24,4 @@ Below are some factors I’m currently busy with:
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alein249&theme=radical&show_icons=true&locale=en" alt="alein249" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alein249&" alt="alein249" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alein249&theme=radical" alt="alein249" /></p>
